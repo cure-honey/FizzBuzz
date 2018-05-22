@@ -1,0 +1,1 @@
+do 1 i=1,100;1print'(g0,t1,2a)',i,pack(['Fizz','Buzz'],0==mod(i,[3,5]));end

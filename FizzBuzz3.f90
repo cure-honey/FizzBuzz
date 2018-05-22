@@ -1,0 +1,1 @@
+print'(g0,t1a)',(i,'FizzBuzz'(5-4*2**mod(-i,3):4+4*2**mod(-i,5)),i=1,100);end
